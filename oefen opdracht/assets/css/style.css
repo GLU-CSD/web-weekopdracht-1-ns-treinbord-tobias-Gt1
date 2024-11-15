@@ -1,0 +1,51 @@
+#muur {
+
+    width: 1000px;
+    
+    height: 800px;
+    
+    background-color: #d9d9d9;
+    
+	#steen1 {
+	    background-color: #ffa500;
+	    width: 100px;
+	    height: 25px;
+	    display: inline-block;
+	}
+	#steen2 {
+	    background-color: #ffa500;
+	    width: 100px;
+	    height: 25px;
+	    display: inline-block;
+	}
+    #steen3 {
+        background-color: #ffa500;
+        width: 100px;
+        height: 25px;
+        display: inline-block;
+	}
+
+	#steen4 {
+	    background-color: #ffa500;
+	    width: 100px;
+	    height: 25px;
+	    display: inline-block;
+	}
+
+	#steen5 {
+	    background-color: #ffa500;
+	    width: 100px;
+	    height: 25px;
+	    display: inline-block;
+	}
+	
+	#steen6 {
+	    background-color: #ffa500;
+	    width: 100px;
+	    height: 25px;
+	    display: inline-block;
+	}
+
+
+
+    }
